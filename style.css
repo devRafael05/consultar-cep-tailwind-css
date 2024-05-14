@@ -1,0 +1,16 @@
+body {
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
+}
+
+.container {
+  max-width: 100%;
+  width: 100%;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.max-w-md {
+  max-width: 28rem;
+}
